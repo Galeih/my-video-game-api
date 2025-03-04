@@ -7,8 +7,8 @@
 - [Prérequis](#prérequis)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
-- [Technologies utilisées](#technologies-utilisées)
-- [Améliorations possibles](#améliorations-possibles)
+- [Commandes Utiles](#commandes-utiles)
+- [Structure du projet](#structure-du-projet)
 
 ## Aperçu
 
